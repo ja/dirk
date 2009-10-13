@@ -1,0 +1,6 @@
+"image_1.jpg":
+  title: "A title beyond all titles"
+  description: "Some more meta data for your delectation"
+"image_2.jpg":
+  title: "A title that's not as good as some other titles, but not bad nontheless"
+  description: "Yep, data is the meat on the bones"
